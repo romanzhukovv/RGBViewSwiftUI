@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FC3EBBFE27C68E7C004F967E /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC3EBBFD27C68E7C004F967E /* ColorView.swift */; };
 		FCB7B60C27C636DA00DB138F /* RGBViewSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB7B60B27C636DA00DB138F /* RGBViewSwiftUIApp.swift */; };
 		FCB7B60E27C636DA00DB138F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCB7B60D27C636DA00DB138F /* ContentView.swift */; };
 		FCB7B61027C636DB00DB138F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FCB7B60F27C636DB00DB138F /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FC3EBBFD27C68E7C004F967E /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
 		FCB7B60827C636DA00DB138F /* RGBViewSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RGBViewSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCB7B60B27C636DA00DB138F /* RGBViewSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RGBViewSwiftUIApp.swift; sourceTree = "<group>"; };
 		FCB7B60D27C636DA00DB138F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				FCB7B60B27C636DA00DB138F /* RGBViewSwiftUIApp.swift */,
 				FCB7B60D27C636DA00DB138F /* ContentView.swift */,
+				FC3EBBFD27C68E7C004F967E /* ColorView.swift */,
 				FCB7B60F27C636DB00DB138F /* Assets.xcassets */,
 				FCB7B61127C636DB00DB138F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FC3EBBFE27C68E7C004F967E /* ColorView.swift in Sources */,
 				FCB7B60E27C636DA00DB138F /* ContentView.swift in Sources */,
 				FCB7B60C27C636DA00DB138F /* RGBViewSwiftUIApp.swift in Sources */,
 			);
